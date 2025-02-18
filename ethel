@@ -1,0 +1,102 @@
+package frames
+
+var Rick = DefaultFrameType(rickFrames)
+
+var rickFrames = []string{
+/\\_\\/\\
+( o.o )  Ethel the Cat  
+ > ^ <  
+
+/\\_\\/\\
+( o.o )   "Ethel, this is not normal behavior."
+ > ^ <  
+
+/\\_\\/\\
+( -_- )   "Ethel, this is not normal behavior."  
+ > ^ <  
+
+/\\_\\/\\
+( >_< )   "Ethel, this is not normal behavior."  
+/  ~  \  
+|  | |  |  
+
+/\\_\\/\\
+( >.< )   "Ethel, stop this nonsense."  
+/  --  \  
+| |  |  |   
+
+/\\_\\/\\
+( ಠ_ಠ )   "Ethel, this is highly unacceptable."  
+ > 𝄞 <  
+
+/\\_\\/\\   ≡⚡  
+(ง •̀_•́)ง  "Ethel is ready to fight!"  
+  / ︻╦̵̵̿╤──  
+ /     \  
+
+/\\_\\/\\   
+ ( ⚆_⚆)  –▶  "Ethel strikes!"  
+  << \  
+   /\ \  
+
+/\\_\\/\\
+( `皿´ )  "Ethel is FURIOUS!"  
+  >  ⌒ >  
+ /  ||  \  
+
+/\\_\\/\\   
+( ≧□≦ )  "HISSSS!!!"  
+  ≡(   >  <  )≡  
+   /  ||  \  
+
+/\\_\\/\\  
+( •̀ω•́ )  "Oops... Did I do that?"  
+  >🫳 🍶  *CRASH!*  
+ /     \  
+
+/\\_\\/\\  
+( ≖‿≖ )  "Ethel DESTROYS!"  
+  ⌒(⚡⌒⌒⌒⌒)  
+  /   ||   \  
+
+/\\_\\/\\  
+  (╬ಠ益ಠ)  "Ethel WREAKS HAVOC!"  
+  ≡🫳🔥🔥🔥🔥🔥🔥🔥🔥🔥  
+   /   ||   \  
+  *CRASH*  *BOOM*  *DESTROY*  
+
+/\\_\\/\\  
+  (ノಠ益ಠ)ノ彡┻━┻  "Ethel RULES NOW!"  
+  🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥  
+  ⎝  🏢🏠🏬⎠  💥💥💥  
+
+/\\_\\/\\  
+   (╬☉益☉╬ )  "ETHEL DOMINATES THE WORLD!"  
+  ≡🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥  
+      🌍  💥💥💥💥💥💥💥  
+
+/\\_\\/\\  
+      ( ⚆_⚆ )  "MUAHAHA! BEGONE, EARTH!"  
+     ⎛   🌍   ⎞  
+     🔥🔥🔥🔥🔥🔥🔥🔥🔥  
+    💀💀💀💀💀💀💀💀  
+
+/\\_\\/\\   
+  (╬`益´)  "Target acquired..."  
+  🔪──█║▌║▌║  
+   /   \  
+
+/\\_\\/\\ 🌑  
+  ( -_･)  *Ethel strikes silently...*  
+   🔪──█║▌║▌║  
+   /   \   
+
+/\\_\\/\\  
+  (⌐■_■)  "Mission accepted."  
+  🔪──█║▌║▌║  
+   /   \ 🥷     
+
+/\\_\\/\\ 🌑  
+  ( -_･)  *Silent... Deadly...*  
+   🔪──█║▌║▌║  
+  🥷   /   \ 
